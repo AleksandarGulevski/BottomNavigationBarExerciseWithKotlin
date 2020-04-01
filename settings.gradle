@@ -1,0 +1,2 @@
+rootProject.name='Bottom navigation bar exercise with Kotlin'
+include ':app'
